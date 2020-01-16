@@ -1,6 +1,6 @@
 # pig-game
-A budget app mainly using JavaScript ES5.<br> 
-Primarily practice for reusable function structures with one task for one function and Dom manipulation.<br><br>
+Dice game where you aim to score 100 first.<br>
+Mainly used JavaScript and was intended to practice game flow and build architecture before code. Also uses Dom manipulation.
 
 #### Live Demo
-https://nicolehle.github.io/budget-app/
+https://nicolehle.github.io/pig-game/
